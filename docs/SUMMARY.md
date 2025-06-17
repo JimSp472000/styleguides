@@ -41,6 +41,8 @@
 * [German (de)](de/README.md)
     * [Marketing guide to Firefox localization](de/firefox_marketing.md)
     * [Mozilla Tone of Voice & Localization Guide](de/mozilla_marketing.md)
+* [Greek (el)](el/README.md)
+    * [SUMO Style Guide](el/SUMO.md)
 * [Hausa (ha)](ha/README.md)
 * [Hindi (hi-IN)](hi-IN/README.md)
     * [Marketing guide to Firefox localization](hi-IN/firefox_marketing.md)
